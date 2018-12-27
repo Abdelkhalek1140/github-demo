@@ -13,9 +13,7 @@
                     />
 
         <Entry x:Name="email" 
-               Placeholder="Entrez votre email ici"
                Keyboard="Email"
-               Text="test"
                     />
         
         <Entry x:Name="password" 
