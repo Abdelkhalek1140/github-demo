@@ -1,0 +1,16 @@
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.deps.json
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.dll
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\bin\Debug\netstandard2.0\App2.pdb
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\HistoryPage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\NewTravelPage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfoInputs.cache
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.AssemblyInfo.cs
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.dll
+C:\Users\Abdelkhalek\source\repos\App2\App2\App2\obj\Debug\netstandard2.0\App2.pdb
